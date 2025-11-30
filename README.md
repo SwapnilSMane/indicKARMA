@@ -59,7 +59,7 @@ python main.py --data tweets.csv --output results.json --evaluate
 ### Custom Configuration
 ```bash
 python main.py --data tweets.csv \
-    --confidence-threshold 0.7 \
+    --confidence-threshold 0.6 \
     --ta-model-path /path/to/ta/model \
     --teacher-model-path /path/to/teacher/model \
     --evaluate
@@ -81,7 +81,7 @@ python main.py --data tweets.csv \
 - Based on google/rembert with context integration
 
 ### Teacher-Agent Model
-- Fine-tuned LLaMA2-7B with mLoRA
+- Fine-tuned LLaMA2-7B with MTL-LoRA
 - Path: `FINETUNED_MODEL_CONFIG["lora_weights"]`
 - Multi-task LoRA adaptation
 
@@ -118,11 +118,11 @@ python main.py --data tweets.csv \
 
 ## Publication Notes
 
-This implementation represents the production-ready version of the IndicKARMA framework submitted to AAAI. We will make publically avaliable upon acceptance. The code has been optimized for:
+This implementation represents the production-ready version of the IndicKARMA framework. We will make it publicly available upon acceptance. The code has been optimized for:
 
 - Clean, maintainable architecture
 - Production deployment readiness
 - Comprehensive evaluation capabilities
 - Academic reproducibility
 
-The framework demonstrates state-of-the-art performance on multilingual multidimensional aggression detection in Indian conetxt with practical deployment considerations.
+The framework demonstrates state-of-the-art performance on multilingual multidimensional aggression detection in the Indian context with practical deployment considerations.
