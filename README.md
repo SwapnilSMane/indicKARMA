@@ -1,5 +1,8 @@
 # IndicKARMA: Knowledge-enhanced Agentic Reasoner for Multidimensional Aggression
 
+by Swapnil Mane, Rajesh Sharma, and Suman Kundu
+
+
 ## Core Components
 
 ### 1. IndicKARMA.py
