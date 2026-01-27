@@ -127,7 +127,7 @@ pydub==0.25.1
 pynndescent==0.5.13
 pyparsing==3.2.3
 python-dotenv==1.1.0
-python-multipart==0.0.6
+python-multipart==0.0.22
 pytz==2025.2
 PyYAML==6.0.2
 referencing==0.36.2
