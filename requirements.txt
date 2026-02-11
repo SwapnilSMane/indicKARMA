@@ -111,7 +111,7 @@ packaging==23.2
 pandas==2.3.1
 patsy==1.0.1
 peft==0.15.2
-pillow==10.4.0
+pillow==12.1.1
 plotly==6.2.0
 preshed==3.0.10
 prometheus-client==0.17.1
