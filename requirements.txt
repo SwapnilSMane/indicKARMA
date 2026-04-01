@@ -116,7 +116,7 @@ plotly==6.2.0
 preshed==3.0.10
 prometheus-client==0.17.1
 propcache==0.3.1
-protobuf==3.20.3
+protobuf==5.29.6
 py-cpuinfo==9.0.0
 pyarrow==20.0.0
 pybloom_live==4.0.0
