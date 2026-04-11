@@ -118,14 +118,3 @@ python main.py --data tweets.csv \
 2. Install dependencies: `pip install -r requirements.txt`
 3. Configure model paths in config.py
 4. Run: `python main.py --help`
-
-## Publication Notes
-
-This implementation represents the production-ready version of the IndicKARMA framework. We will make it publicly available upon acceptance. The code has been optimized for:
-
-- Clean, maintainable architecture
-- Production deployment readiness
-- Comprehensive evaluation capabilities
-- Academic reproducibility
-
-The framework demonstrates state-of-the-art performance on multilingual multidimensional aggression detection in the Indian context with practical deployment considerations.
