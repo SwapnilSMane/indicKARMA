@@ -118,3 +118,24 @@ python main.py --data tweets.csv \
 2. Install dependencies: `pip install -r requirements.txt`
 3. Configure model paths in config.py
 4. Run: `python main.py --help`
+
+---
+
+---
+
+## 📄 Citation
+
+If you use this work, please cite:
+
+Mane, S., Sharma, R., & Kundu, S. (2026). *IndicAG: An Explainable Agentic Framework for Indic-Multilingual Multidimensional Aggression Detection*. In Proceedings of the ACM Web Conference (WWW). https://doi.org/10.1145/3774904.3793018
+
+### BibTeX
+```bibtex
+@inproceedings{mane2026indicag,
+  title     = {IndicAG: An Explainable Agentic Framework for Indic-Multilingual Multidimensional Aggression Detection},
+  author    = {Mane, Swapnil and Sharma, Rajesh and Kundu, Suman},
+  booktitle = {Proceedings of the ACM Web Conference (WWW)},
+  year      = {2026},
+  doi       = {10.1145/3774904.3793018},
+  publisher = {ACM}
+}
