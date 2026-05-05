@@ -121,8 +121,6 @@ python main.py --data tweets.csv \
 
 ---
 
----
-
 ## 📄 Citation
 
 If you use this work, please cite:
